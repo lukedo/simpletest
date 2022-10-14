@@ -1,6 +1,6 @@
 package com.test.array;
 
-public class Demo1Array {
+public: class Demo1Array {
     public static void main(String[] args) {
         student[] arr1 = new student[3];
         System.out.println(arr1.length);
