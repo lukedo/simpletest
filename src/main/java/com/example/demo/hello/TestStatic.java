@@ -7,7 +7,7 @@ public class TestStatic {
         private static int age;
 
         public static void move() {
-            System.out.println("just move and do sports!");
+            System.out.println("just move and do sports!!!!");
         }
 
         public void fly() {
